@@ -1,0 +1,4 @@
+vhdl work "../RegisterProj/reg4bits.vhd"
+vhdl work "../MuxProj/mux2x4.vhd"
+vhdl work "../Decoder7SegmentDisplayProj/decoder7seg.vhd"
+vhdl work "regmux7seg.vhd"

@@ -1,0 +1,11 @@
+V3 6
+FL /home/ise/Documents/RegisterProj/reg4bits.vhd 2023/03/11.13:52:43 P.20131013
+EN work/reg4bits 1678542767 FL /home/ise/Documents/RegisterProj/reg4bits.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/reg4bits/Behavioral 1678542768 \
+      FL /home/ise/Documents/RegisterProj/reg4bits.vhd EN work/reg4bits 1678542767
+FL /home/ise/Documents/RegisterProj/register.vhd 2023/03/11.13:51:07 P.20131013
+EN work/register 0 FL /home/ise/Documents/RegisterProj/register.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/register/Behavioral 0 \
+      FL /home/ise/Documents/RegisterProj/register.vhd EN work/register 0

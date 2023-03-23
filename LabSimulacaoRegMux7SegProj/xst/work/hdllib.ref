@@ -1,0 +1,8 @@
+EN reg4bits NULL C:/Users/082190011/Desktop/Xilinxs/Documents/RegisterProj/reg4bits.vhd sub00/vhpl01 1678927195
+AR mux2x4 behavioral C:/Users/082190011/Desktop/Xilinxs/Documents/MuxProj/mux2x4.vhd sub00/vhpl04 1678927198
+AR decoder7seg behavioral C:/Users/082190011/Desktop/Xilinxs/Documents/Decoder7SegmentDisplayProj/decoder7seg.vhd sub00/vhpl06 1678927200
+AR reg4bits behavioral C:/Users/082190011/Desktop/Xilinxs/Documents/RegisterProj/reg4bits.vhd sub00/vhpl02 1678927196
+EN mux2x4 NULL C:/Users/082190011/Desktop/Xilinxs/Documents/MuxProj/mux2x4.vhd sub00/vhpl03 1678927197
+EN decoder7seg NULL C:/Users/082190011/Desktop/Xilinxs/Documents/Decoder7SegmentDisplayProj/decoder7seg.vhd sub00/vhpl05 1678927199
+EN regmux7seg NULL C:/Users/082190011/Desktop/Xilinxs/Documents/LabSimulacaoRegMux7SegProj/regmux7seg.vhd sub00/vhpl00 1678927201
+AR regmux7seg behavioral C:/Users/082190011/Desktop/Xilinxs/Documents/LabSimulacaoRegMux7SegProj/regmux7seg.vhd sub00/vhpl07 1678927202

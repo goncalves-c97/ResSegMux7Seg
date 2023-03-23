@@ -1,0 +1,4 @@
+vhdl isim_temp "../RegisterProj/reg4bits.vhd"
+vhdl isim_temp "../MuxProj/mux2x4.vhd"
+vhdl isim_temp "../Decoder7SegmentDisplayProj/decoder7seg.vhd"
+vhdl isim_temp "regmux7seg.vhd"

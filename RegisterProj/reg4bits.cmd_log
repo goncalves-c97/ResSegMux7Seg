@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/Documents/RegisterProj/reg4bits.xst" -ofn "/home/ise/Documents/RegisterProj/reg4bits.syr" 
+xst -intstyle ise -ifn "/home/ise/Documents/RegisterProj/reg4bits.xst" -ofn "/home/ise/Documents/RegisterProj/reg4bits.syr" 

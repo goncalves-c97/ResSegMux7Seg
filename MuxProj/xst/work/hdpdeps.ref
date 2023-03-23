@@ -1,0 +1,6 @@
+V3 3
+FL /home/ise/Documents/MuxProj/mux2x4.vhd 2023/03/11.13:43:26 P.20131013
+EN work/mux2x4 1678542211 FL /home/ise/Documents/MuxProj/mux2x4.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux2x4/Behavioral 1678542212 \
+      FL /home/ise/Documents/MuxProj/mux2x4.vhd EN work/mux2x4 1678542211

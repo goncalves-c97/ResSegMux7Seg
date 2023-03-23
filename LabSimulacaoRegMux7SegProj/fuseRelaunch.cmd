@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/082190011/Desktop/Xilinxs/Documents/LabSimulacaoRegMux7SegProj/tb_regmux7seg_isim_beh.exe" -prj "C:/Users/082190011/Desktop/Xilinxs/Documents/LabSimulacaoRegMux7SegProj/tb_regmux7seg_beh.prj" "work.tb_regmux7seg" 
